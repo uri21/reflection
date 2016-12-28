@@ -107,7 +107,7 @@ Sprite = function () {
   this.y     = 0;
   this.rot   = 0;
   this.scale = 1;
-
+//test
   this.currentNode = null;
   this.nextSprite  = null;
 
